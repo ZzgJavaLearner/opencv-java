@@ -1,1 +1,2 @@
 运行前要导入opencv库，find为java+opencv调用yolov5 detect脚本推理图片而后对处理的结果进行一些操作，findFace为打开电脑摄像头进行人脸和人眼识别的小程序，background为背景减法算法练习
+findFullBody为本人想只用java+opencv实现游戏内对敌人实时检测并追踪的ai外挂，但苦于训练的模型效果太差。
