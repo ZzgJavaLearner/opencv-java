@@ -1,1 +1,1 @@
-运行前要导入opencv库
+运行前要导入opencv库，find为java+opencv调用yolov5 detect脚本推理图片而后对处理的结果进行一些操作，findFace为打开电脑摄像头进行人脸和人眼识别的小程序。
